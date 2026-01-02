@@ -76,4 +76,10 @@ OSPF is a link-state routing protocol for Internet Protocol (IP) networks. It us
 - **Simulation Mode**: Use Packet Tracer's "Simulation Mode" to visualize packet flow and debug connectivity issues.
 
 ---
+## Author
+
+**Yeshwanth Goud**
+
+*Data Scientist | Full Stack & ML Enthusiast*
+
 *Created for educational purposes to demonstrate network routing concepts.*
